@@ -3,7 +3,7 @@ author: layla
 url: https://codinglayla.github.io/myblog
 description: a coding blog
 
-remote_theme: abhinavs/moonwalk
+remote_theme: codinglayla/moonwalk
 
 theme_config:
   appearance: "dark"
