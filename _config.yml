@@ -1,12 +1,12 @@
 title: layla's blog
 author: layla
 url: https://codinglayla.github.io/myblog
-description: a coding blog
+description: false
 
 remote_theme: codinglayla/moonwalk
 
 theme_config:
-  appearance: "dark"
+  appearance: "light"
   appearance_toggle: true
   back_home_text: "cd ~" # customize text for homepage link in post layout
   date_format: "%d.%m.%Y" # customize how date is formatted
