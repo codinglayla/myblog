@@ -6,7 +6,7 @@ description: false
 remote_theme: laylacodes/moonwalk
 
 theme_config:
-  appearance: "light"
+  appearance: "dark"
   appearance_toggle: true
   back_home_text: "cd ~" # customize text for homepage link in post layout
   date_format: "%d.%m.%Y" # customize how date is formatted
