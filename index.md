@@ -1,7 +1,5 @@
 
-<img src="https://github.com/laylacodes/myblog/blob/main/coralreef.png" width="300" height="150"> 
-
-### welcome! 
+### console.log("hey stranger!"); 
 
 i'm layla. i'm a Software Engineering major, aspiring full stack dev. i have aspirations of also becoming pilates instrutor. i'm a huge animal lover, and will stop and pet anoyone's dog if they'll let me 🙏🏼 
 
