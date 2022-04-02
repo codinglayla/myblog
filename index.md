@@ -1,8 +1,13 @@
 
-### console.log("hey stranger!"); 
+## console.log("hey stranger!"); 
+___
+i'm layla! a a Software Engineering major, and aspiring Full Stack Developer. i'm a big supporter of fit body = fit mind, & i have aspirations of becoming pilates instrutor! i'm an intense animal lover, and will stop to pet any and all doggos if their owners will let me 😹 
 
-i'm layla. i'm a Software Engineering major, aspiring full stack dev. i have aspirations of also becoming pilates instrutor. i'm a huge animal lover, and will stop and pet anoyone's dog if they'll let me 🙏🏼 
+### a ~~byte~~ bit more info about me:
+i grew up playing soccer from 3 years old to 11 years old, then i switched to volleyball. which i then played until i was 18 years old. now being older, i'm determined to become a pilates instructor in my free time. as far as computers & coding goes, when i was younger i'd use css to customize my own myspace page, as well as blogging on wordpress daily about Club Penguin (lol i know). to my amusement, my childhood blog had amassed around 29K views while i was 12/13 years old. 🤣
 
-i'm going to be writing about my personal coding journey, 'how-to' blog posts about certain languages/frameworks, posting my cheatsheets here, + more. 
+### what you can expect from this blog:
+
+i'm going to be blogging about my personal coding journey, 'how-to' posts about certain languages, frameworks & concepts, posting my cheatsheets here, + more. 
 
 connect with me on my socials at the bottom - thanks for visiting 🧡
