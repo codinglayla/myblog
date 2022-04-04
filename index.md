@@ -4,7 +4,8 @@ ___
 i'm layla! a a Software Engineering major, and aspiring Full Stack Developer. i'm an intense animal lover, and will stop to pet any and all doggos if their owners will let me 😹 
 
 ### a ~~byte~~ bit more info about me:
-i grew up playing soccer from 3 years old to 11 years old, then i switched to volleyball. which i then played until i was 18 years old. now being older, i'm determined to become a pilates instructor in my free time! my motto is 'fit body === fit mind'. as far as computers & coding goes, when i was younger i'd use css to customize my own myspace page, as well as blogging on wordpress daily about Club Penguin (lol i know). to my amusement, my childhood blog had amassed around 29K views while i was 12/13 years old. 🤣 
+i'm extremely into fitness, hiking + working out. my motto is 'fit body === fit mind' 🧡 at a young age, i started developing a passion for sports, as well as computers, blogging and coding. at around 11/12, i was juggling learning how to code in css on my myspace page & practicing volleyball 3/4 times a week to land myself a college scholarship. as i grew older, i quickly realized i did not want to go to college for sports. i then went on to major in Business Administration my freshman year of college...only to change my major a year & a half later to Software Engineering. 
+i ended up breaking my wrist in 2019 due to a bad car wreck, and required surgey to insert some screws, so i ended up taking off almost 2 full semesters due to that. which was a bummer, but i'm on my own journey. and i don't compare myself to anybody else! our journeys are uniquely each our own. embrace it.
 
 ### what you can expect from this blog:
 
